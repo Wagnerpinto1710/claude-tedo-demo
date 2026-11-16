@@ -6,14 +6,14 @@
  * Replies with JSON: {"ok": true} or {"ok": false, "error": "..."}.
  *
  * Setup (once, on the server, in the same folder as this file):
- *   composer require phpmailer/phpmailer
+ *   PHPMailer is already included in vendor/ (no Composer install needed).
  * Then create a .env file next to this script (never commit it):
  *   SMTP_HOST=smtp.yourprovider.com
  *   SMTP_PORT=465            # 465 = SSL, 587 = STARTTLS
- *   SMTP_USERNAME=website@africakaiser.co.uk
+ *   SMTP_USERNAME=website@example.com
  *   SMTP_PASSWORD=********
- *   ADMIN_EMAIL=founder@africakaiser.co.uk
- *   ALLOWED_ORIGIN=https://www.africakaiser.co.uk   # optional
+ *   ADMIN_EMAIL=owner@example.com
+ *   ALLOWED_ORIGIN=https://www.example.com   # optional
  */
 
 declare(strict_types=1);
