@@ -1,0 +1,2004 @@
+{
+ "categories": [
+  {
+   "slug": "pvc-pipes",
+   "name": "PVC Pipes",
+   "name_pt": "Tubos de PVC",
+   "blurb": "SCH80 pressure pipe, 2\" to 12\"",
+   "blurb_pt": "Tubo de pressão SCH80, de 2\" a 12\"",
+   "image": "/products/SCH80 PVC Pipe(3).png",
+   "sort": 1
+  },
+  {
+   "slug": "construction-materials",
+   "name": "Construction Materials",
+   "name_pt": "Materiais de Construção",
+   "blurb": "Cement, clinker, slag and aggregate in bulk",
+   "blurb_pt": "Cimento, clínquer, escória e agregados a granel",
+   "image": "/products/Portland Cement GGBFS.png",
+   "sort": 2
+  },
+  {
+   "slug": "steel",
+   "name": "Structural Steel",
+   "name_pt": "Aço Estrutural",
+   "blurb": "Painted or galvanised sections to order",
+   "blurb_pt": "Perfis pintados ou galvanizados por encomenda",
+   "image": "/banner1.jpg",
+   "sort": 3
+  },
+  {
+   "slug": "electrical",
+   "name": "Sockets & Switches",
+   "name_pt": "Tomadas e Interruptores",
+   "blurb": "Wall sockets, switches and accessories",
+   "blurb_pt": "Tomadas de parede, interruptores e acessórios",
+   "image": null,
+   "sort": 4
+  },
+  {
+   "slug": "lighting",
+   "name": "Lighting",
+   "name_pt": "Iluminação",
+   "blurb": "LED ceiling, pendant and wall lights",
+   "blurb_pt": "Candeeiros LED de teto, suspensos e de parede",
+   "image": "/products/951-400.png",
+   "sort": 5
+  }
+ ],
+ "products": [
+  {
+   "id": "1",
+   "name": "2\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 2\"",
+   "category": "pvc-pipes",
+   "price": 10.28,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "106 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "2inch-SCH80"
+    },
+    {
+     "label": "Size",
+     "value": "60.32*5.54*49.24 mm"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "7.93 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe.png"
+   ],
+   "featured": 1,
+   "sort": 1
+  },
+  {
+   "id": "2",
+   "name": "2.5\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 2.5\"",
+   "category": "pvc-pipes",
+   "price": 15.67,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "106 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "73.02*7.01*59 mm"
+    },
+    {
+     "label": "Model",
+     "value": "2.5inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "12.09 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe.png"
+   ],
+   "featured": 0,
+   "sort": 2
+  },
+  {
+   "id": "3",
+   "name": "3\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 3\"",
+   "category": "pvc-pipes",
+   "price": 20.98,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "106 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "3inch-SCH80"
+    },
+    {
+     "label": "Size",
+     "value": "88.97*7.27*23.66 mm"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "16.18 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe.png"
+   ],
+   "featured": 0,
+   "sort": 3
+  },
+  {
+   "id": "4",
+   "name": "4\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 4\"",
+   "category": "pvc-pipes",
+   "price": 30.65,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "106 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "114.3*8.56*97.18 mm"
+    },
+    {
+     "label": "Model",
+     "value": "4inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "23.65 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe.png"
+   ],
+   "featured": 0,
+   "sort": 4
+  },
+  {
+   "id": "5",
+   "name": "5\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 5\"",
+   "category": "pvc-pipes",
+   "price": 42.48,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "106 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "141.3*9.52*122.26 mm"
+    },
+    {
+     "label": "Model",
+     "value": "5inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "32.78 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe.png",
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(4).png"
+   ],
+   "featured": 6,
+   "sort": 5
+  },
+  {
+   "id": "6",
+   "name": "6\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 6\"",
+   "category": "pvc-pipes",
+   "price": 58.43,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "53 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "168.28*10.91*146.34 mm"
+    },
+    {
+     "label": "Model",
+     "value": "6inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "45.09 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe.png",
+    "/products/SCH80 PVC Pipe(1).png"
+   ],
+   "featured": 0,
+   "sort": 6
+  },
+  {
+   "id": "7",
+   "name": "8\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 8\"",
+   "category": "pvc-pipes",
+   "price": 88.75,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "53 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "219.06*12.71*193.68 mm"
+    },
+    {
+     "label": "Model",
+     "value": "8inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "68.49 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe.png"
+   ],
+   "featured": 0,
+   "sort": 7
+  },
+  {
+   "id": "8",
+   "name": "10\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 10\"",
+   "category": "pvc-pipes",
+   "price": 131.78,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "53 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "273.51*15.06*243.38 mm"
+    },
+    {
+     "label": "Model",
+     "value": "10inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "101.71 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(1).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe.png"
+   ],
+   "featured": 0,
+   "sort": 8
+  },
+  {
+   "id": "9",
+   "name": "12\" SCH80 PVC Pipe",
+   "name_pt": "Tubo de PVC SCH80 12\"",
+   "category": "pvc-pipes",
+   "price": 181.04,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "FOB",
+   "moq": "53 pcs",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Size",
+     "value": "323.85*17.45*288.95 mm"
+    },
+    {
+     "label": "Model",
+     "value": "12inch-SCH80"
+    },
+    {
+     "label": "Length",
+     "value": "5.7 m/pc"
+    },
+    {
+     "label": "Weight",
+     "value": "139.71 kgs/pc"
+    }
+   ],
+   "images": [
+    "/products/SCH80 PVC Pipe(4).png",
+    "/products/SCH80 PVC Pipe(2).png",
+    "/products/SCH80 PVC Pipe(3).png",
+    "/products/SCH80 PVC Pipe.png",
+    "/products/SCH80 PVC Pipe(1).png"
+   ],
+   "featured": 0,
+   "sort": 9
+  },
+  {
+   "id": "10",
+   "name": "Clinker",
+   "name_pt": "Clínquer",
+   "category": "construction-materials",
+   "price": 33.5,
+   "price_max": null,
+   "unit": "ton",
+   "price_term": "FOB Dongguan",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Place Of Origin",
+     "value": "China"
+    },
+    {
+     "label": "Application",
+     "value": "Cement enhancer"
+    },
+    {
+     "label": "Annual Output",
+     "value": "5000000 tons"
+    },
+    {
+     "label": "Delivery Time",
+     "value": "3-7 days after received 30% T/T payment"
+    },
+    {
+     "label": "Payment Terms",
+     "value": "30% T/T after signed contract, 70% L/C or T/T balance before delivery"
+    },
+    {
+     "label": "Packing",
+     "value": "Bulk"
+    },
+    {
+     "label": "Quantities",
+     "value": "55000 tons +/-10%"
+    },
+    {
+     "label": "Loading Rate",
+     "value": "15000 tons/day"
+    },
+    {
+     "label": "Quotation Period",
+     "value": "One week"
+    },
+    {
+     "label": "Laycan",
+     "value": "Base on client"
+    }
+   ],
+   "images": [
+    "/products/Clinker.png"
+   ],
+   "featured": 3,
+   "sort": 10
+  },
+  {
+   "id": "11",
+   "name": "Granulated Blast Furnace Slag in Bulk",
+   "name_pt": "Escória granulada de alto-forno a granel",
+   "category": "construction-materials",
+   "price": 5.5,
+   "price_max": null,
+   "unit": "ton",
+   "price_term": "FOB Dongguan",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Place Of Origin",
+     "value": "China"
+    },
+    {
+     "label": "Application",
+     "value": "Cement,Concrete and Briquettes Production"
+    },
+    {
+     "label": "Annual Output",
+     "value": "2000000 tons"
+    },
+    {
+     "label": "Delivery Time",
+     "value": "Current goods.Baseon the delivery time of the vessel and your 30%T/T deposit"
+    },
+    {
+     "label": "Payment Terms",
+     "value": "30% T/T Payed after signed the contract,70%T/TorL/C before delivery."
+    },
+    {
+     "label": "Packing",
+     "value": "Bulk"
+    },
+    {
+     "label": "Quantities",
+     "value": "55000-65000 tons"
+    },
+    {
+     "label": "Loading Rate",
+     "value": "18000-20000 tons/day"
+    },
+    {
+     "label": "Quotation Period",
+     "value": "One week"
+    },
+    {
+     "label": "Laycan",
+     "value": "Base on client"
+    }
+   ],
+   "images": [
+    "/products/GBFS.jpg",
+    "/products/GBFS.png"
+   ],
+   "featured": 0,
+   "sort": 11
+  },
+  {
+   "id": "12",
+   "name": "Aggregate in bulk",
+   "name_pt": "Agregado a granel",
+   "category": "construction-materials",
+   "price": 12,
+   "price_max": null,
+   "unit": "ton",
+   "price_term": "FOB Dongguan",
+   "moq": "10000 tons",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Place Of Origin",
+     "value": "China"
+    },
+    {
+     "label": "Application",
+     "value": "Construction"
+    },
+    {
+     "label": "Annual Output",
+     "value": "8000000 tons"
+    },
+    {
+     "label": "Delivery Time",
+     "value": "7-15 days after received your 30% deposit"
+    },
+    {
+     "label": "Payment Terms",
+     "value": "30% T/T Payed after signed the contract,70%T/TorL/C before delivery."
+    },
+    {
+     "label": "Packing",
+     "value": "Bulk"
+    },
+    {
+     "label": "Size",
+     "value": "0-5mm 5-10mm 10-25mm 25-30mm 30-40mm 30-63mm"
+    },
+    {
+     "label": "Quotation Period",
+     "value": "One week"
+    },
+    {
+     "label": "Laycan",
+     "value": "Base on client"
+    }
+   ],
+   "images": [
+    "/products/Screen Shot 2025-09-09 at 13.47.33.png"
+   ],
+   "featured": 0,
+   "sort": 12
+  },
+  {
+   "id": "13",
+   "name": "Portland Cement",
+   "name_pt": "Cimento Portland",
+   "category": "construction-materials",
+   "price": 48,
+   "price_max": null,
+   "unit": "ton",
+   "price_term": "FOB Dongguan",
+   "moq": "10000 tons",
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Place Of Origin",
+     "value": "China"
+    },
+    {
+     "label": "Application",
+     "value": "Construction"
+    },
+    {
+     "label": "Annual Output",
+     "value": "3000000 tons"
+    },
+    {
+     "label": "Delivery Time",
+     "value": "20-30 days"
+    },
+    {
+     "label": "Payment Terms",
+     "value": "T/T(50%+50%) will showed on the contract 50%T/T payed after we signed the contract,rest balance T/T need to pay before delivery"
+    },
+    {
+     "label": "Packing",
+     "value": "Packed in 50kg PP bag (noprintings) in 2MT sling bag (withoutinnerliner)"
+    },
+    {
+     "label": "Quotation Period",
+     "value": "One week"
+    }
+   ],
+   "images": [
+    "/products/Portland Cement GGBFS.png",
+    "/products/Portland Cement GGBFS 1.png"
+   ],
+   "featured": 2,
+   "sort": 13
+  },
+  {
+   "id": "steel-1",
+   "name": "C Shaped Steel",
+   "name_pt": "Perfil de aço em C",
+   "category": "steel",
+   "price": 476,
+   "price_max": 532,
+   "unit": "ton",
+   "price_term": "FOB",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "H-shaped steel pipe"
+    },
+    {
+     "label": "Features",
+     "value": "Anti-Corrosion, Earthquake Resistance, Easy To Install, High Intensity, Recyclable"
+    },
+    {
+     "label": "Surface Treatment",
+     "value": "Painted or Galvanized"
+    },
+    {
+     "label": "Size",
+     "value": "Customizable"
+    },
+    {
+     "label": "Specification",
+     "value": "as Customer Request"
+    },
+    {
+     "label": "Transport Package",
+     "value": "Steel Pallet and Shipping in Container"
+    },
+    {
+     "label": "Install",
+     "value": "Online Guidance"
+    },
+    {
+     "label": "Hs Code",
+     "value": "7308400000"
+    },
+    {
+     "label": "Production Capacity",
+     "value": "10000 Tons/Year"
+    }
+   ],
+   "images": [
+    "/banner1.jpg"
+   ],
+   "featured": 7,
+   "sort": 14
+  },
+  {
+   "id": "socket-U2-1",
+   "name": "1 Gang 1 Way Switch",
+   "name_pt": "Interruptor simples, 1 tecla",
+   "category": "electrical",
+   "price": 0.38,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-1"
+    },
+    {
+     "label": "Specification",
+     "value": "1 gang 1 way(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 15
+  },
+  {
+   "id": "socket-U2-2",
+   "name": "1 Gang 2 Way Switch",
+   "name_pt": "Comutador de escada, 1 tecla",
+   "category": "electrical",
+   "price": 0.38,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-2"
+    },
+    {
+     "label": "Specification",
+     "value": "1 gang 2 way(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 16
+  },
+  {
+   "id": "socket-U2-3",
+   "name": "2 Gang 1 Way Switch",
+   "name_pt": "Interruptor duplo, 2 teclas",
+   "category": "electrical",
+   "price": 0.5,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-3"
+    },
+    {
+     "label": "Specification",
+     "value": "2 gang 1 way(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 17
+  },
+  {
+   "id": "socket-U2-4",
+   "name": "1 Gang 1 Way Switch with Indicator",
+   "name_pt": "Interruptor simples, 1 tecla, com sinalizador",
+   "category": "electrical",
+   "price": 0.4,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-4"
+    },
+    {
+     "label": "Specification",
+     "value": "1 gang 1 way switch with indicator(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 18
+  },
+  {
+   "id": "socket-U2-5",
+   "name": "1 Gang 2 Way Switch with Indicator",
+   "name_pt": "Comutador de escada, 1 tecla, com sinalizador",
+   "category": "electrical",
+   "price": 0.4,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-5"
+    },
+    {
+     "label": "Specification",
+     "value": "1 gang 2 way switch with indicator(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 19
+  },
+  {
+   "id": "socket-U2-6",
+   "name": "2 Gang 1 Way Switch with Indicator",
+   "name_pt": "Interruptor duplo, 2 teclas, com sinalizador",
+   "category": "electrical",
+   "price": 0.55,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-6"
+    },
+    {
+     "label": "Specification",
+     "value": "2 gang 1 way switch with indicator(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 20
+  },
+  {
+   "id": "socket-U2-7",
+   "name": "13A 1 Gang Double Pole Switch",
+   "name_pt": "Interruptor bipolar 13A, 1 tecla",
+   "category": "electrical",
+   "price": 0.55,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-7"
+    },
+    {
+     "label": "Specification",
+     "value": "13A 1 gang double pole switch(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 21
+  },
+  {
+   "id": "socket-U2-8",
+   "name": "20A Double Pole Switch",
+   "name_pt": "Interruptor bipolar 20A",
+   "category": "electrical",
+   "price": 0.7,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-8"
+    },
+    {
+     "label": "Specification",
+     "value": "20A double pole switch(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 22
+  },
+  {
+   "id": "socket-U2-9",
+   "name": "45A Double Pole Switch with Indicator",
+   "name_pt": "Interruptor bipolar 45A com sinalizador",
+   "category": "electrical",
+   "price": 1.25,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-9"
+    },
+    {
+     "label": "Specification",
+     "value": "45A double pole switch with indicator(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 23
+  },
+  {
+   "id": "socket-U2-10",
+   "name": "13A Switched Socket",
+   "name_pt": "Tomada 13A com interruptor",
+   "category": "electrical",
+   "price": 0.75,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-10"
+    },
+    {
+     "label": "Specification",
+     "value": "13A switch socket(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 24
+  },
+  {
+   "id": "socket-U2-11",
+   "name": "13A Switched Socket with Neon",
+   "name_pt": "Tomada 13A com interruptor e néon",
+   "category": "electrical",
+   "price": 0.85,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-11"
+    },
+    {
+     "label": "Specification",
+     "value": "13A switch socket with neon(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 25
+  },
+  {
+   "id": "socket-U2-12",
+   "name": "13A 2 Gang Switched Socket",
+   "name_pt": "Tomada dupla 13A com interruptor",
+   "category": "electrical",
+   "price": 1.05,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-12"
+    },
+    {
+     "label": "Specification",
+     "value": "13A 2 gang switch socket(80*150mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 26
+  },
+  {
+   "id": "socket-U2-13",
+   "name": "13A 2 Gang Switched Socket with Neon",
+   "name_pt": "Tomada dupla 13A com interruptor e néon",
+   "category": "electrical",
+   "price": 1.2,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-13"
+    },
+    {
+     "label": "Specification",
+     "value": "13A 2 gang switch socket with neon(80*150mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 27
+  },
+  {
+   "id": "socket-U2-14",
+   "name": "15A 1 Gang Socket Outlet",
+   "name_pt": "Tomada simples 15A",
+   "category": "electrical",
+   "price": 0.45,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-14"
+    },
+    {
+     "label": "Specification",
+     "value": "15A 1 gang socket outlet(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 28
+  },
+  {
+   "id": "socket-U2-15",
+   "name": "15A 2 Gang Socket Outlet",
+   "name_pt": "Tomada dupla 15A",
+   "category": "electrical",
+   "price": 0.85,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-15"
+    },
+    {
+     "label": "Specification",
+     "value": "15A 2 gang socket outlet(80*150mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 29
+  },
+  {
+   "id": "socket-U2-16",
+   "name": "Universal 13A Socket Outlet",
+   "name_pt": "Tomada universal 13A",
+   "category": "electrical",
+   "price": 0.55,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-16"
+    },
+    {
+     "label": "Specification",
+     "value": "universal 13A socket outlet(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 30
+  },
+  {
+   "id": "socket-U2-17",
+   "name": "2 Gang Universal Socket Outlet",
+   "name_pt": "Tomada dupla universal",
+   "category": "electrical",
+   "price": 0.9,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-17"
+    },
+    {
+     "label": "Specification",
+     "value": "2 gang socket outlet universal(80*150mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 31
+  },
+  {
+   "id": "socket-U2-18",
+   "name": "2 Gang Universal Socket Outlet with Child Protection",
+   "name_pt": "Tomada dupla universal com proteção para crianças",
+   "category": "electrical",
+   "price": 0.95,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-18"
+    },
+    {
+     "label": "Specification",
+     "value": "2 gang socket outlet universal with child protection"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 32
+  },
+  {
+   "id": "socket-U2-19",
+   "name": "Double Socket Outlet",
+   "name_pt": "Tomada dupla",
+   "category": "electrical",
+   "price": 0.5,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-19"
+    },
+    {
+     "label": "Specification",
+     "value": "double socket outlet"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 33
+  },
+  {
+   "id": "socket-U2-20",
+   "name": "Double Socket Outlet with Child Protection",
+   "name_pt": "Tomada dupla com proteção para crianças",
+   "category": "electrical",
+   "price": 0.5,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-20"
+    },
+    {
+     "label": "Specification",
+     "value": "double socket outlet child protection"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 34
+  },
+  {
+   "id": "socket-U2-21",
+   "name": "Earthed Double Socket Outlet with Child Protection",
+   "name_pt": "Tomada dupla com terra e proteção para crianças",
+   "category": "electrical",
+   "price": 0.6,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-21"
+    },
+    {
+     "label": "Specification",
+     "value": "double socket outlet earthed child protection"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 35
+  },
+  {
+   "id": "socket-U2-22",
+   "name": "2 Gang Socket Outlet with Child Protection",
+   "name_pt": "Tomada dupla, 2 módulos, com proteção para crianças",
+   "category": "electrical",
+   "price": 0.75,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-22"
+    },
+    {
+     "label": "Specification",
+     "value": "2 gang socket outlet child protection (80*150mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 36
+  },
+  {
+   "id": "socket-U2-23",
+   "name": "Earthed 2 Gang Socket Outlet with Child Protection",
+   "name_pt": "Tomada dupla com terra, 2 módulos, com proteção para crianças",
+   "category": "electrical",
+   "price": 0.75,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-23"
+    },
+    {
+     "label": "Specification",
+     "value": "2 gang socket outlet earthed child protection(80*150mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 37
+  },
+  {
+   "id": "socket-U2-24",
+   "name": "USB Charger Socket",
+   "name_pt": "Tomada carregador USB",
+   "category": "electrical",
+   "price": 1.6,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-24"
+    },
+    {
+     "label": "Specification",
+     "value": "usb(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 38
+  },
+  {
+   "id": "socket-U2-24-c",
+   "name": "USB + USB-C Charger Socket",
+   "name_pt": "Tomada carregador USB + USB-C",
+   "category": "electrical",
+   "price": 1.6,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-24-c"
+    },
+    {
+     "label": "Specification",
+     "value": "usb+TYPE-c(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 39
+  },
+  {
+   "id": "socket-U2-25",
+   "name": "TV Socket",
+   "name_pt": "Tomada de TV",
+   "category": "electrical",
+   "price": 0.5,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-25"
+    },
+    {
+     "label": "Specification",
+     "value": "TV socket(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 40
+  },
+  {
+   "id": "socket-U2-26",
+   "name": "Satellite Socket",
+   "name_pt": "Tomada de satélite",
+   "category": "electrical",
+   "price": 0.59,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-26"
+    },
+    {
+     "label": "Specification",
+     "value": "satelite socket(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 41
+  },
+  {
+   "id": "socket-U2-27",
+   "name": "Telephone Socket RJ11",
+   "name_pt": "Tomada de telefone RJ11",
+   "category": "electrical",
+   "price": 0.5,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-27"
+    },
+    {
+     "label": "Specification",
+     "value": "tel socket RJ11(80*80mm)"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 42
+  },
+  {
+   "id": "socket-U2-28",
+   "name": "13A 3 Pin Plug Top",
+   "name_pt": "Ficha 13A de 3 pinos",
+   "category": "electrical",
+   "price": 0.35,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-28"
+    },
+    {
+     "label": "Specification",
+     "value": "single plug top 13A 3 pin"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 43
+  },
+  {
+   "id": "socket-U2-29",
+   "name": "3 Way Adaptor with Indicator",
+   "name_pt": "Adaptador de 3 vias com sinalizador",
+   "category": "electrical",
+   "price": 0.95,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-29"
+    },
+    {
+     "label": "Specification",
+     "value": "3 way adaptor with indicator"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 44
+  },
+  {
+   "id": "socket-U2-30",
+   "name": "4 Way Adaptor with Indicator",
+   "name_pt": "Adaptador de 4 vias com sinalizador",
+   "category": "electrical",
+   "price": 1.25,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-30"
+    },
+    {
+     "label": "Specification",
+     "value": "4 way adaptor with indicator"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 45
+  },
+  {
+   "id": "socket-U2-31",
+   "name": "5 Way Adaptor with Indicator",
+   "name_pt": "Adaptador de 5 vias com sinalizador",
+   "category": "electrical",
+   "price": 1.55,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-31"
+    },
+    {
+     "label": "Specification",
+     "value": "5 way adaptor with indicator"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 46
+  },
+  {
+   "id": "socket-U2-32",
+   "name": "6 Way Adaptor with Indicator",
+   "name_pt": "Adaptador de 6 vias com sinalizador",
+   "category": "electrical",
+   "price": 1.85,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-32"
+    },
+    {
+     "label": "Specification",
+     "value": "6 way adaptor with indicator"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 47
+  },
+  {
+   "id": "socket-U2-33",
+   "name": "13A Extension Cord",
+   "name_pt": "Extensão elétrica 13A",
+   "category": "electrical",
+   "price": 2.2,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-33"
+    },
+    {
+     "label": "Specification",
+     "value": "cord extension 13A"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 48
+  },
+  {
+   "id": "socket-U2-34",
+   "name": "Extension Cord Socket",
+   "name_pt": "Tomada de extensão",
+   "category": "electrical",
+   "price": 2.8,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-34"
+    },
+    {
+     "label": "Specification",
+     "value": "cord extension socket"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 49
+  },
+  {
+   "id": "socket-U2-35",
+   "name": "Junction Box",
+   "name_pt": "Caixa de derivação",
+   "category": "electrical",
+   "price": 0.85,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": "EXW",
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "U2-35"
+    },
+    {
+     "label": "Specification",
+     "value": "junction box"
+    }
+   ],
+   "images": [],
+   "featured": 0,
+   "sort": 50
+  },
+  {
+   "id": "light-911-400wh",
+   "name": "Round LED Ceiling Light 400 mm, White",
+   "name_pt": "Plafon LED redondo 400 mm, Branco",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "911-400WH"
+    }
+   ],
+   "images": [
+    "/products/911-400WH.png"
+   ],
+   "featured": 0,
+   "sort": 51
+  },
+  {
+   "id": "light-951-400",
+   "name": "Round LED Ceiling Light 400 mm, Black Trim",
+   "name_pt": "Plafon LED redondo 400 mm, Aro preto",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "951-400"
+    }
+   ],
+   "images": [
+    "/products/951-400.png"
+   ],
+   "featured": 4,
+   "sort": 52
+  },
+  {
+   "id": "light-912-600bk",
+   "name": "Square LED Panel Ceiling Light 600 mm, Black",
+   "name_pt": "Painel LED quadrado de teto 600 mm, Preto",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "912-600BK"
+    }
+   ],
+   "images": [
+    "/products/912-600BK.png"
+   ],
+   "featured": 0,
+   "sort": 53
+  },
+  {
+   "id": "light-d0111",
+   "name": "Ribbon LED Ceiling Light, Gold",
+   "name_pt": "Candeeiro LED de teto em fita, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "D0111"
+    }
+   ],
+   "images": [
+    "/products/D0111.png"
+   ],
+   "featured": 0,
+   "sort": 54
+  },
+  {
+   "id": "light-d023-350",
+   "name": "Ribbon LED Pendant 350 mm, Gold",
+   "name_pt": "Candeeiro suspenso LED em fita 350 mm, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "D023-350"
+    }
+   ],
+   "images": [
+    "/products/D023-350.png"
+   ],
+   "featured": 0,
+   "sort": 55
+  },
+  {
+   "id": "light-d664gd",
+   "name": "Twist LED Pendant, Gold",
+   "name_pt": "Candeeiro suspenso LED torcido, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "D664GD"
+    }
+   ],
+   "images": [
+    "/products/D664GD.png"
+   ],
+   "featured": 5,
+   "sort": 56
+  },
+  {
+   "id": "light-pze-d205",
+   "name": "Wave LED Linear Pendant",
+   "name_pt": "Candeeiro suspenso LED linear ondulado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "PZE-D205"
+    }
+   ],
+   "images": [
+    "/products/PZE-D205.png"
+   ],
+   "featured": 0,
+   "sort": 57
+  },
+  {
+   "id": "light-x0224-800gd",
+   "name": "Geometric LED Ceiling Light 800 mm, Gold",
+   "name_pt": "Candeeiro LED de teto geométrico 800 mm, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "X0224-800GD"
+    }
+   ],
+   "images": [
+    "/products/X0224-800GD.png"
+   ],
+   "featured": 0,
+   "sort": 58
+  },
+  {
+   "id": "light-x0224-900gd",
+   "name": "Geometric LED Ceiling Light 900 mm, Gold",
+   "name_pt": "Candeeiro LED de teto geométrico 900 mm, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "X0224-900GD"
+    }
+   ],
+   "images": [
+    "/products/X0224-900GD.png"
+   ],
+   "featured": 0,
+   "sort": 59
+  },
+  {
+   "id": "light-b0212gd",
+   "name": "Loop LED Wall Light, Gold",
+   "name_pt": "Aplique LED de parede em laço, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "B0212GD"
+    }
+   ],
+   "images": [
+    "/products/B0212GD.png"
+   ],
+   "featured": 0,
+   "sort": 60
+  },
+  {
+   "id": "light-b0213gd",
+   "name": "Curve LED Wall Light, Gold",
+   "name_pt": "Aplique LED de parede curvo, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "B0213GD"
+    }
+   ],
+   "images": [
+    "/products/B0213GD.png"
+   ],
+   "featured": 0,
+   "sort": 61
+  },
+  {
+   "id": "light-b0214gd",
+   "name": "Spiral LED Wall Light, Gold",
+   "name_pt": "Aplique LED de parede em espiral, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "B0214GD"
+    }
+   ],
+   "images": [
+    "/products/B0214GD.png"
+   ],
+   "featured": 8,
+   "sort": 62
+  },
+  {
+   "id": "light-b0244gd",
+   "name": "Twin Arm LED Wall Light, Gold",
+   "name_pt": "Aplique LED de parede com dois braços, Dourado",
+   "category": "lighting",
+   "price": null,
+   "price_max": null,
+   "unit": "pc",
+   "price_term": null,
+   "moq": null,
+   "origin": "China",
+   "description": "",
+   "description_pt": "",
+   "specs": [
+    {
+     "label": "Model",
+     "value": "B0244GD"
+    }
+   ],
+   "images": [
+    "/products/B0244GD.png"
+   ],
+   "featured": 0,
+   "sort": 63
+  }
+ ]
+}
