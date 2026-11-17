@@ -1,0 +1,18 @@
+# Keep private files off the web
+<FilesMatch "^(\.env.*|\.user\.ini|.*\.sqlite.*|db\.php|mailer\.php|seed-catalog\.json|composer\.(json|lock))$">
+  Require all denied
+</FilesMatch>
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(vendor|data)/ - [F,L]
+</IfModule>
+
+# Single-page app: send unknown paths to index.html
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
